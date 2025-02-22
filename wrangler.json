@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "falling-sun-f5b0",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8afd92c6-66b1-45da-91aa-6bd46f51f6f9",
+      "database_name": "falling-sun-f5b0-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
